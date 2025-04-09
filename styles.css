@@ -206,7 +206,7 @@ nav ul li a {
 }
 #second{
     background:#0e579f;
-    margin-top: -50px;
+    
     
 }
 
@@ -348,8 +348,8 @@ ul li::before{
     height: 100vh;
     width: 100vw;
     background-color:#0e579f;
-    padding: 70px;
-    padding-bottom: 0px;
+    
+    
     color:white;
 }
 
@@ -703,7 +703,7 @@ h3 {
 }
 #sec-98f2{
     color: white;
-    padding-top: 50px;
+    
 }
 #ico{
     margin-left: -250px;
