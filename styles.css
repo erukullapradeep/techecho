@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+html {
+        scroll-padding-top: 80px; /* Adjust based on your navbar height */
+      }
 
 body {
     text-align: center;
@@ -161,6 +164,9 @@ nav ul li a {
         padding: 15px;
         text-align: center;
     }
+    html {
+        scroll-padding-top: 220px; 
+      }
 
     nav ul {
         flex-direction: column;
